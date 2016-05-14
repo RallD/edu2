@@ -1,5 +1,5 @@
 <?php
-
+/*А тут реквайрим*/
 require __DIR__ . '/models/photo.php';
 
 $items = Photo_getAll();

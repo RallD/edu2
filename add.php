@@ -21,6 +21,5 @@ if(!empty($_POST)){
 		die;
 	}
 }
-
-
+/*Инклюдим тут*/
 include __DIR__ . '/views/add.php';
